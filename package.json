@@ -1,0 +1,22 @@
+{
+  "name": "egg_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "egg": "^2.21.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.12.3"
+  },
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:liuxy/egg_demo.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
