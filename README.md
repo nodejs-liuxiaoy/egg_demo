@@ -12,6 +12,21 @@ Egg.js 为企业级框架和应用而生
 * 渐进式开发
 
 
+## 脚手架
+
+```bash
+$ mkdir egg-example && cd egg-example
+$ npm init egg --type=simple
+```
+
+* simple - Simple egg app boilerplate
+* microservice - Microservice app boilerplate based on egg
+* sequelize - egg app with sequelize
+* ts - Simple egg && typescript app boilerplate
+* empty - Empty egg app boilerplate
+* plugin - egg plugin boilerplate
+* framework - egg framework boilerplate
+
 
 
 ##### Egg 与 Koa 的版本关系
